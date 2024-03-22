@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Rizwan
+####  Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps
+![ Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps](https://www.gyanvihar.org:3001/uploads/1630053356860mbahead.jpg)
+
+As a Proficient professional in the realms of Full-stack development, I specialize in developing web apps, software and enterprise solutions that propel businesses forward. With a wealth of expertise in JavaScript, ReactJS, NodeJS, TypeScript development, I collaborate closely with clients to transform concepts into powerful applications that align with their objectives.
+
+Skills: NODE / REACT / NEXT / NEST / JS / HTML / CSS 
+
+
+
+
+
+
 
 <!--
 **rizwanayubi/rizwanayubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
