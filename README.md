@@ -1,14 +1,10 @@
 ### Hi there 👋, I'm Rizwan
 ####  Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps
-![ Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps](https://qph.cf2.quoracdn.net/main-qimg-f87267d986a7cbe51abc75050b5ad423)
+![ Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 
 As a Proficient professional in the realms of Full-stack development, I specialize in developing web apps, software and enterprise solutions that propel businesses forward. With a wealth of expertise in JavaScript, ReactJS, NodeJS, TypeScript development, I collaborate closely with clients to transform concepts into powerful applications that align with their objectives.
 
 Skills: NODE / REACT / NEXT / NEST / JS / HTML / CSS 
-
-
-
-
 
 
 
