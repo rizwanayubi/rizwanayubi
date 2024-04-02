@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Rizwan Ayubi
+### Hi there 👋, I'm Muhammad Rizwan Khan
 ####  Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps
 ![ Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
 
