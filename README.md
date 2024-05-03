@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Muhammad Rizwan Khan
 ####  Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps
-![ Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps](https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg)
+![ Full-Stack Expert | JavaScript, React, Node, and Scalable Web Apps]
 
 I specialize in developing web apps, software and enterprise solutions that propel businesses forward. With a wealth of expertise in JavaScript, ReactJS, NodeJS, TypeScript development, I collaborate closely with clients to transform concepts into powerful applications that align with their objectives.
 
